@@ -29,7 +29,7 @@ The system handles **two delivery types**:
 
 | Screen | Description |
 |--------|-------------|
-| ![Main Screen](<img width="2296" height="1286" alt="main_oceny_dostaw" src="https://github.com/user-attachments/assets/1577a26a-4431-4ac2-a239-53e7d003d891" /> **Main screen** – navigation & overview |
+| ![Main Screen](<img width="2296" height="1286" alt="main_oceny_dostaw" src="https://github.com/user-attachments/assets/1577a26a-4431-4ac2-a239-53e7d003d891" /> | **Main screen** – navigation & overview |
 | ![Form – Tanker Delivery] <img width="2731" height="1480" alt="warehouseform_oceny_dostaw" src="https://github.com/user-attachments/assets/6b996e04-a9de-4cea-b66d-b09fba78afa8" /> | **Tanker delivery form** – fields & file upload |
 | ![Form – Palletized Delivery] <img width="2302" height="1293" alt="form2_oceny_dostaw" src="https://github.com/user-attachments/assets/5db859cf-56e3-4912-b42a-6db0c7c8f7c9" />| **Palletized delivery form** – structured input |
 | ![Tanker Gallery] <img width="2865" height="1609" alt="gallery_oceny_dostaw" src="https://github.com/user-attachments/assets/4f39550c-79f3-4491-b1bc-4306c6757464" />| **Tanker gallery** – list of active deliveries |
