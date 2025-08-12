@@ -42,7 +42,8 @@ The system handles **two delivery types**:
 ---
 
 ## 🔄 Process Workflow
-![Process Diagram](./screenshots/raw_material_delivery_process.png)
+<img width="960" height="64" alt="raw_material_delivery_process" src="https://github.com/user-attachments/assets/5a860970-ba01-4fa7-9864-15d3c8c4c5f3" />
+
 
 **Workflow Steps:**
 1. **Warehouse operator** completes delivery form in PowerApps.  
