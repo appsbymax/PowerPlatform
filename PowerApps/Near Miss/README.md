@@ -1,6 +1,6 @@
 PowerApps – Near Miss Reporting App
 
-## 🚀 Quick Overview
+##  Quick Overview
 A PowerApps solution that enables **every employee** to report a **Near Miss** (“close call”) in seconds.  
 Submissions are instantly routed to the right people. The app supports **classification/area filtering, risk assessment, root-cause analysis (5 Whys)**, and **action assignment** (containment/corrective/preventive).
 
@@ -8,7 +8,7 @@ Submissions are instantly routed to the right people. The app supports **classif
 
 ---
 
-## 🛠 Capabilities
+##  Capabilities
 - Fast reporting with attachments (photo/video)
 - Instant notifications to safety/area owners (Power Automate + Outlook)
 - Browsing & filtering by classification, area, date, status
@@ -19,7 +19,7 @@ Submissions are instantly routed to the right people. The app supports **classif
 
 ---
 
-## 🧩 Architecture
+##  Architecture
 - **PowerApps (Canvas)**: forms, galleries, RCA, actions
 - **SharePoint List(s)**: reports, actions, classifications
 - **Power Automate**: routing, notifications, escalations
@@ -31,7 +31,7 @@ Submissions are instantly routed to the right people. The app supports **classif
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 | Preview | Description |
 |---|---|
 | <img width="1432" height="805" alt="Main_screen_NM" src="https://github.com/user-attachments/assets/65b0bd42-d79e-4938-8bc7-20147a08f6f8" /> | **Main Screen** – entry & navigation |
@@ -47,7 +47,7 @@ Submissions are instantly routed to the right people. The app supports **classif
 
 ---
 
-## 📑 Data Model
+##  Data Model
 - **NearMiss**: Title, Description, Area, Classification, Severity, Likelihood, **RiskScore**, Reporter, Date, Attachments, Status
 - **Actions**: Type (Containment/Corrective/Preventive), Description, Owner, DueDate, Status, **NearMissId**
 - **RCA**: 5 Whys nodes linked to **NearMissId**
