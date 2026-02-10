@@ -1,7 +1,9 @@
-📦 PowerApps – Raw Material Delivery Reporting Digitalization
+ PowerApps – Raw Material Delivery Reporting Digitalization
 
-## 🚀 Quick Overview
-PowerApps application designed to **digitalize and automate raw material delivery reporting** in a manufacturing facility.  
+##  Quick Overview
+PowerApps application designed to **digitalize and automate raw material delivery reporting** in a manufacturing facility.
+The application is used across daily operations and supports the end-to-end raw material delivery and release process handled by Quality Control, providing real operational impact within the manufacturing facility.
+
 The system handles **two delivery types**:
 - **Palletized materials**  
 - **Tanker deliveries**  
@@ -15,7 +17,7 @@ The system handles **two delivery types**:
 
 ---
 
-## 🛠 Main Capabilities
+##  Main Capabilities
 - 📋 Digital delivery forms with attachments
 - 🔔 Automatic Quality Control notifications
 - ✅ Delivery approval workflow inside the app
@@ -25,7 +27,7 @@ The system handles **two delivery types**:
 
 ---
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 | Screen | Description |
 |--------|-------------|
@@ -41,7 +43,7 @@ The system handles **two delivery types**:
 
 ---
 
-## 🔄 Process Workflow
+##  Process Workflow
 <img width="960" height="64" alt="raw_material_delivery_process" src="https://github.com/user-attachments/assets/5a860970-ba01-4fa7-9864-15d3c8c4c5f3" />
 
 
@@ -54,10 +56,29 @@ The system handles **two delivery types**:
 
 ---
 
-## 📊 Benefits
+##  Benefits
 - Reduced manual paperwork  
 - Faster delivery approvals  
 - Clearer communication between departments  
 - Better traceability & reporting
 
 ---
+
+
+## My Role
+- Designed and implemented the end-to-end delivery reporting solution in PowerApps
+- Built automated approval workflow and QC notification logic using Power Automate
+- Structured SharePoint data model for delivery traceability and reporting
+- Supported end users, performed testing and iterative improvements
+- Enabled daily operational usage and visibility of delivery status across departments
+
+
+---
+
+
+
+## Business Impact
+- Eliminated paper-based delivery reporting and manual email coordination
+- Accelerated Quality Control approval and unloading decisions
+- Improved cross-department communication and delivery traceability
+- Provided real-time operational visibility through Power BI dashboards
