@@ -93,3 +93,20 @@ The tool **significantly improves cross-functional communication and execution**
 - **Always-on usage** for analysis **and** escalation, not a one-off tool.  
 - Traceable lifecycle from **incident → root cause → CAPA → closure**.
 
+---
+
+## My Role
+- Designed end-to-end solution architecture (PowerApps, SharePoint, Power Automate)
+- Implemented RCA modules (5 Whys, Ishikawa) and full CAPA lifecycle
+- Built task inbox, reminder engine (T-2/T-0) and escalation logic
+- Provided end-user support, training and functional testing
+- Enabled organization-wide adoption across **120+ active users**
+- Prepared data model and reporting layer for Power BI analytics
+
+## Business Impact
+- Supports **hundreds of incident analyses** and **over a thousand CAPA actions annually**
+- Improved cross-functional coordination and ownership transparency
+- Reduced manual follow-ups through automated reminders and escalations
+- Created a centralized, traceable lifecycle from **incident → root cause → closure**
+
+
